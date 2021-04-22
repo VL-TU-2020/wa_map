@@ -159,7 +159,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/359626733"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=359626733"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
