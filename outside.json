@@ -69,7 +69,7 @@
          "name":"food",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":40,
          "x":0,
          "y":0
@@ -77,7 +77,7 @@
         {
          "draworder":"topdown",
          "id":2,
-         "name":"floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
