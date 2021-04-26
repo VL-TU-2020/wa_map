@@ -20,6 +20,12 @@
          "id":5,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"garden1.json#outside_entry"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
