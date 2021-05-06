@@ -154,16 +154,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/vdivde-it.de\/en"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
